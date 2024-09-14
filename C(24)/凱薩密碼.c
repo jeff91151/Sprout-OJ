@@ -35,6 +35,8 @@ int main(void) {
 	for (j=0;j<i;j++){
 		printf("%c", c[j]);
 	}
+	
+	// 記得要加上 換行 不然不會過 
 	printf("\n");
 	
 	return 0;
